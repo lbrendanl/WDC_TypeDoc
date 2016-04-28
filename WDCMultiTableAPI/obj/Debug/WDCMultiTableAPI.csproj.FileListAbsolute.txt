@@ -1,0 +1,6 @@
+D:\dev\server-dev_sdesmond2\WDCMultiTableAPI\WDCMultiTableAPI\bin\WDCMultiTableAPI.dll.config
+D:\dev\server-dev_sdesmond2\WDCMultiTableAPI\WDCMultiTableAPI\bin\WDCMultiTableAPI.dll
+D:\dev\server-dev_sdesmond2\WDCMultiTableAPI\WDCMultiTableAPI\bin\WDCMultiTableAPI.pdb
+D:\dev\server-dev_sdesmond2\WDCMultiTableAPI\WDCMultiTableAPI\obj\Debug\WDCMultiTableAPI.csprojResolveAssemblyReference.cache
+D:\dev\server-dev_sdesmond2\WDCMultiTableAPI\WDCMultiTableAPI\obj\Debug\WDCMultiTableAPI.dll
+D:\dev\server-dev_sdesmond2\WDCMultiTableAPI\WDCMultiTableAPI\obj\Debug\WDCMultiTableAPI.pdb

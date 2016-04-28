@@ -1,0 +1,5 @@
+do this first:
+npm install typedoc
+
+Then:
+typedoc --out docs app.ts --verbose --mode file --theme minimal
